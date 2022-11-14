@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Android Navigation Exercise by Ruli</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Sidebar Profile
+    <string name="profile_name">Thariqi Ruli Ramadhani</string>
+    <string name="profile_desc">Mobile Mentee at Infinite Learning</string>
+
+    //Sidebar Title
+    <string name="bottom_navbar_title">Bottom Navigation Bar</string>
+    <string name="tab_layout_title">Tab Layout</string>
+    <string name="recycler_view_title">Recycler View with JSON API</string>
+
+    //Button
+    <string name="recycler_view">Recycler View</string>
+
+    //Bottom Navbar
+    <string name="title_home">Home</string>
+    <string name="content_home">This is Home Fragment</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="content_dashboard">This is Dashboard Fragment</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="content_notifications">This is Notifications Fragment</string>
+</resources>
